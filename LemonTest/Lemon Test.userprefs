@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Completed\Scripts\ReactableObject.cs">
+    <Files>
+      <File FileName="Assets\Completed\Scripts\Rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Completed\Scripts\SpriteButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Completed\Scripts\Cube.cs" Line="24" Column="5" />
+      <File FileName="Assets\Completed\Scripts\JumpButton.cs" Line="49" Column="16" />
+      <File FileName="Assets\Completed\Scripts\ReactableObject.cs" Line="58" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,58 @@
+D:\Unity\Lemon Test\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEditor.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.xml
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEditor.xml
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity\Lemon Test\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Unity\Lemon Test\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Unity\Lemon Test\obj\Debug\Assembly-CSharp.dll
+D:\Unity\Lemon Test\obj\Debug\Assembly-CSharp.pdb
+D:\GitHub\LemonTest\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEditor.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.VR.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\Mono.Cecil.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\Unity.DataContract.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.xml
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEditor.xml
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.UI.xml
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\GitHub\LemonTest\Temp\bin\Debug\UnityEngine.VR.xml
+D:\GitHub\LemonTest\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\GitHub\LemonTest\obj\Debug\Assembly-CSharp.dll
+D:\GitHub\LemonTest\obj\Debug\Assembly-CSharp.pdb
